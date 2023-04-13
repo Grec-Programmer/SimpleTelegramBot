@@ -15,6 +15,7 @@
 
 .vs/
 .vs/*
+.vs/MyTestBot
 
 # Mono auto generated files
 mono_crash.*
